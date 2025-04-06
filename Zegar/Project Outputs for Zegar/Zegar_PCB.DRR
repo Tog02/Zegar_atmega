@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Zegar_PCB.PcbDoc   11.02.2025  18:58:40
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Zegar_PCB-RoundHoles.TXT
+ASCII SlotHoles File : Zegar_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.6mm (24mil)                                             Slot              4         PTH        34.90mm (1.37inch)
+T2      0.711mm (28mil)                                           Round             5         PTH        102.78mm (4.05inch)
+T3      0.762mm (30mil)                                           Round             24        PTH        120.14mm (4.73inch)
+T4      0.85mm (33mil)                                            Round             24        PTH        211.33mm (8.32inch)
+T5      0.9mm (35mil)                                             Round             46        PTH        256.30mm (10.09inch)
+T6      1mm (39mil)                                               Round             8         PTH        35.08mm (1.38inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              111
+
+Total Processing Time (hh:mm:ss) : 00:00:00

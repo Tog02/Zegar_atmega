@@ -1,0 +1,385 @@
+Removed Member From Class: ClassName=Zegar_schemmatic Member=12
+Removed Member From Class: ClassName=Zegar_schemmatic Member=13
+Added Component: Designator=R1(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RT1(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=RT2(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=RT3(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=RT4(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=RT5(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=RT6(AX_1/4W_4M)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SQ_6m_4X6m)
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SQ_6m_4X6m)
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=T1(TO-92W)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC548B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Added Component: Designator=T2(TO-92W)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC548B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Added Component: Designator=T3(TO-92W)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC548B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Added Component: Designator=T4(TO-92W)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC548B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Added Component: Designator=T5(TO-92W)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC548B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Added Component: Designator=T6(TO-92W)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC548B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Added Component: Designator=USB C(FP-USB4125-GF-A-0190-MFG)
+Added Component: Designator=W1(PCBComponent_1)
+Added Component: Designator=W2(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-22
+Added Pin To Net: NetName=GND Pin=USB C-A12
+Added Pin To Net: NetName=GND Pin=USB C-B12
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=T1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=T2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=T3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=T4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=T5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=T6-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetRT1_2 Pin=RT1-2
+Added Pin To Net: NetName=NetRT1_2 Pin=U?-23
+Added Net: Name=NetRT1_2
+Added Pin To Net: NetName=NetRT2_2 Pin=RT2-2
+Added Pin To Net: NetName=NetRT2_2 Pin=U?-24
+Added Net: Name=NetRT2_2
+Added Pin To Net: NetName=NetRT3_2 Pin=RT3-2
+Added Pin To Net: NetName=NetRT3_2 Pin=U?-25
+Added Net: Name=NetRT3_2
+Added Pin To Net: NetName=NetRT4_2 Pin=RT4-2
+Added Pin To Net: NetName=NetRT4_2 Pin=U?-26
+Added Net: Name=NetRT4_2
+Added Pin To Net: NetName=NetRT5_2 Pin=RT5-2
+Added Pin To Net: NetName=NetRT5_2 Pin=U?-27
+Added Net: Name=NetRT5_2
+Added Pin To Net: NetName=NetRT6_2 Pin=RT6-2
+Added Pin To Net: NetName=NetRT6_2 Pin=U?-28
+Added Net: Name=NetRT6_2
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-3
+Added Pin To Net: NetName=NetSW1_3 Pin=U?-14
+Added Net: Name=NetSW1_3
+Added Pin To Net: NetName=NetSW2_3 Pin=SW2-3
+Added Pin To Net: NetName=NetSW2_3 Pin=U?-15
+Added Net: Name=NetSW2_3
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Pin To Net: NetName=NetU?_2 Pin=W1-11
+Added Pin To Net: NetName=NetU?_2 Pin=W2-11
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=W1-7
+Added Pin To Net: NetName=NetU?_3 Pin=W2-7
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Pin To Net: NetName=NetU?_4 Pin=W1-4
+Added Pin To Net: NetName=NetU?_4 Pin=W2-4
+Added Net: Name=NetU?_4
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Pin To Net: NetName=NetU?_5 Pin=W1-2
+Added Pin To Net: NetName=NetU?_5 Pin=W2-2
+Added Net: Name=NetU?_5
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Pin To Net: NetName=NetU?_6 Pin=W1-1
+Added Pin To Net: NetName=NetU?_6 Pin=W2-1
+Added Net: Name=NetU?_6
+Added Pin To Net: NetName=NetU?_11 Pin=U?-11
+Added Pin To Net: NetName=NetU?_11 Pin=W1-10
+Added Pin To Net: NetName=NetU?_11 Pin=W2-10
+Added Net: Name=NetU?_11
+Added Pin To Net: NetName=NetU?_12 Pin=U?-12
+Added Pin To Net: NetName=NetU?_12 Pin=W1-5
+Added Pin To Net: NetName=NetU?_12 Pin=W2-5
+Added Net: Name=NetU?_12
+Added Pin To Net: NetName=NetU?_13 Pin=U?-13
+Added Pin To Net: NetName=NetU?_13 Pin=W1-3
+Added Pin To Net: NetName=NetU?_13 Pin=W2-3
+Added Net: Name=NetU?_13
+Added Pin To Net: NetName=NetW1_6 Pin=W1-6
+Added Pin To Net: NetName=NetW1_6 Pin=W2-6
+Added Net: Name=NetW1_6
+Added Pin To Net: NetName=T1 Pin=RT1-1
+Added Pin To Net: NetName=T1 Pin=T1-2
+Added Net: Name=T1
+Added Pin To Net: NetName=T2 Pin=RT2-1
+Added Pin To Net: NetName=T2 Pin=T2-2
+Added Net: Name=T2
+Added Pin To Net: NetName=T3 Pin=RT3-1
+Added Pin To Net: NetName=T3 Pin=T3-2
+Added Net: Name=T3
+Added Pin To Net: NetName=T4 Pin=RT4-1
+Added Pin To Net: NetName=T4 Pin=T4-2
+Added Net: Name=T4
+Added Pin To Net: NetName=T5 Pin=RT5-1
+Added Pin To Net: NetName=T5 Pin=T5-2
+Added Net: Name=T5
+Added Pin To Net: NetName=T6 Pin=RT6-1
+Added Pin To Net: NetName=T6 Pin=T6-2
+Added Net: Name=T6
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=U?-7
+Added Pin To Net: NetName=VCC Pin=USB C-A9
+Added Pin To Net: NetName=VCC Pin=USB C-B9
+Added Net: Name=VCC
+Added Pin To Net: NetName=W1_8 Pin=T3-3
+Added Pin To Net: NetName=W1_8 Pin=W2-8
+Added Net: Name=W1_8
+Added Pin To Net: NetName=W1_9 Pin=T2-3
+Added Pin To Net: NetName=W1_9 Pin=W2-9
+Added Net: Name=W1_9
+Added Pin To Net: NetName=W1_12 Pin=T1-3
+Added Pin To Net: NetName=W1_12 Pin=W2-12
+Added Net: Name=W1_12
+Added Pin To Net: NetName=W2_8 Pin=T6-3
+Added Pin To Net: NetName=W2_8 Pin=W1-8
+Added Net: Name=W2_8
+Added Pin To Net: NetName=W2_9 Pin=T5-3
+Added Pin To Net: NetName=W2_9 Pin=W1-9
+Added Net: Name=W2_9
+Added Pin To Net: NetName=W2_12 Pin=T4-3
+Added Pin To Net: NetName=W2_12 Pin=W1-12
+Added Net: Name=W2_12
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component R1 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component R2 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component R3 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component R4 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component R5 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component R6 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component RT1 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component RT2 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component RT3 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component RT4 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component RT5 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component RT6 RES_AX_1/4W_4M
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component SW1 SWITCH_SQ_6m_4X6m
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component SW2 SWITCH_SQ_6m_4X6m
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component T1 BC548
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component T2 BC548
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component T3 BC548
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component T4 BC548
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component T5 BC548
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component T6 BC548
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component USB C USB4125-GF-A-0190
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component W1 Wyœwietlacz LED
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component W2 Wyœwietlacz LED
+Added Rule: Name=Schematic Supply Nets

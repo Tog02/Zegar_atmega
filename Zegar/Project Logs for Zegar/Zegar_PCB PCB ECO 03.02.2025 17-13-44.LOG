@@ -1,0 +1,4 @@
+Added Component: Designator=12(PCBComponent_1)
+Added Component: Designator=13(PCBComponent_1)
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component 12 Wyœwietlacz LED
+Added Member To Class: ClassName=Zegar_schemmatic Member=Component 13 Wyœwietlacz LED

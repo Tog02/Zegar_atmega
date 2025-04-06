@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Zegar.PrjPcb]
+   Generated File[Zegar_PCB-RoundHoles.TXT]
+   Generated File[Zegar_PCB-SlotHoles.TXT]
+   Generated File[Zegar_PCB.LDP]
+   Generated File[Zegar_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:58:40 On 11.02.2025
